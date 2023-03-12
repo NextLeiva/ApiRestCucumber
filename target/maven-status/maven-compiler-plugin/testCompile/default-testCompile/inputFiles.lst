@@ -1,0 +1,6 @@
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/runners/CucumberTestSuite.java
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/utils/Constants.java
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/api/PersonApi.java
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/stepsdefinitions/PersonaStepsDefinitions.java
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/pojo/Persona.java
+/Users/t18630/Documents/zip proyectos/eclipse-workspace/CucumberCrudPersona/src/test/java/com/pe/bdd/base/BaseTest.java

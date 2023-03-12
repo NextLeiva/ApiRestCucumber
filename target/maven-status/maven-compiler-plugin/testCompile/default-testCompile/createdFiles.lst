@@ -1,0 +1,6 @@
+com/pe/bdd/pojo/Persona.class
+com/pe/bdd/api/PersonApi.class
+com/pe/bdd/runners/CucumberTestSuite.class
+com/pe/bdd/utils/Constants.class
+com/pe/bdd/stepsdefinitions/PersonaStepsDefinitions.class
+com/pe/bdd/base/BaseTest.class
